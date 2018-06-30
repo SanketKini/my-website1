@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# files copied into project for reference
+.DS_Store
+*.zip
