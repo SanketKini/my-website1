@@ -7,4 +7,4 @@ Editing to test Branch Creation on Git Hub
 
 Updating this file for the UpdateReadme Branch
 
-Making more edits
+Making more edits made locally, then remotely
